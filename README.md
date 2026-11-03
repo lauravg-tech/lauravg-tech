@@ -8,9 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/laura-gonzalez-palomar-50284735a))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gonzalez-palomar-50284735a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauragonzalezpalomar@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU_PORTAFOLIO)
 
 </div>
 
@@ -80,7 +79,7 @@ Tecnóloga en formación en Desarrollo de Software en Uniminuto. Construyo aplic
 
 ## 📫 Conectemos
 
-Si te interesa colaborar en un proyecto, hablar de desarrollo o explorar una oportunidad, escríbeme por [LinkedIn](https://linkedin.com/in/TU_USUARIO) o al correo lauragonzalezpalomar@gmail.com.
+Si te interesa colaborar en un proyecto, hablar de desarrollo o explorar una oportunidad, escríbeme por [LinkedIn](https://www.linkedin.com/in/laura-gonzalez-palomar-50284735a) o al correo lauragonzalezpalomar@gmail.com.
 
 <div align="center">
 
