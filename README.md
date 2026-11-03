@@ -1,51 +1,89 @@
 <div align="center">
 
-# Hola, soy Laura 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Laura%20Gonzalez&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Desarrolladora%20de%20Software%20%7C%20Fullstack%20en%20formaci%C3%B3n&descAlignY=60&descSize=20" width="100%" alt="Header"/>
 
-### Desarrolladora de Software · Fullstack en formación
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&width=760&height=90&lines=Java+%C2%B7+Python+%C2%B7+SQL;Frontend+%2B+Backend+%2B+Bases+de+datos;Construyendo+soluciones+con+prop%C3%B3sito)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Java+%7C+Python+%7C+SQL;Frontend+%2B+Backend+%2B+Bases+de+datos;Construyendo+soluciones+con+prop%C3%B3sito)](https://git.io/typing-svg)
+📍 Colombia &nbsp;·&nbsp; 🎓 Tecnóloga en Desarrollo de Software &nbsp;·&nbsp; 🌎 Abierta a colaborar
 
-📍 Colombia · 🎓 Tecnóloga en Desarrollo de Software · 🌎 Abierta a colaborar
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/laura-gonzalez-palomar-50284735a))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauragonzalezpalomar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://TU_PORTAFOLIO)
 
 </div>
 
 ---
 
-## 🧠 Sobre mí
+## 💡 Sobre mí
 
-Tecnóloga en formación en Desarrollo de Software en Uniminuto, con base en Java orientado a objetos, aplicaciones de escritorio con CRUD e integración con bases de datos mediante JDBC. Me interesa construir soluciones completas, desde la interfaz con HTML, CSS, JavaScript y React hasta la lógica de negocio y el almacenamiento de datos. Vengo de la gestión contable, así que valoro el orden, la calidad de los datos y los procesos claros.
+Tecnóloga en formación en Desarrollo de Software en Uniminuto. Construyo aplicaciones de principio a fin: interfaces con **HTML, CSS, JavaScript y React**, lógica de negocio en **Java y Python**, y persistencia en **MySQL y MongoDB**. Vengo de la gestión contable, lo que me da una mirada rigurosa sobre los datos y los procesos.
 
-## 🛠️ Tecnologías
+> *Mi objetivo es crear software que resuelva problemas reales, con código claro, mantenible y bien pensado.*
 
-**Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+---
 
-**Backend:** ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat-square&logo=java&logoColor=white)
+## 🧩 Enfoque: Fullstack
 
-**Bases de datos:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+```
+ Frontend          Backend              Datos
+ ─────────         ───────────────      ─────────────
+ HTML · CSS   →    Java (POO, JDBC)  →  MySQL · SQL
+ JavaScript        Python               MongoDB
+ React
+```
 
-**Herramientas:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---|---|---|
-| [Aplicativo de talleres de motocicletas](https://github.com/TU_USUARIO/talleres-motos) | App móvil para localizar talleres de motos en Villavicencio | Fullstack, SQL |
-| [TutorMatch](https://github.com/TU_USUARIO/tutormatch) | Asignación de tutores a estudiantes con puntaje explicable | Web, JavaScript |
-| [VibraLink](https://github.com/TU_USUARIO/vibralink) | Propuesta para el reto de salud mental juvenil de la Hackathon Villavicencio 2026 | Fullstack |
-
-## 📊 Estadísticas de GitHub
+## 🛠️ Stack técnico
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 📫 Contacto
+---
 
-¿Hablamos? Escríbeme por [LinkedIn](https://linkedin.com/in/TU_USUARIO) o al correo lauragonzalezpalomar@gmail.com.
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|:---|:---|:---|
+| **[Talleres de Motocicletas](https://github.com/TU_USUARIO/talleres-motos)** | Aplicación móvil para localizar talleres de motos en Villavicencio | Fullstack · SQL |
+| **[TutorMatch](https://github.com/TU_USUARIO/tutormatch)** | Asignación de tutores a estudiantes con puntaje explicable | Web · JavaScript |
+| **[VibraLink](https://github.com/TU_USUARIO/vibralink)** | Propuesta para el reto de salud mental juvenil · Hackathon Villavicencio 2026 | Fullstack |
+
+---
+
+## 📈 Métricas
+
+<div align="center">
+
+<img height="180" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Conectemos
+
+Si te interesa colaborar en un proyecto, hablar de desarrollo o explorar una oportunidad, escríbeme por [LinkedIn](https://linkedin.com/in/TU_USUARIO) o al correo lauragonzalezpalomar@gmail.com.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+
+</div>
